@@ -7,8 +7,8 @@
 
     "preferredVictoryType": "Domination",
 
-    "startIntroPart1": "We greet thee, oh great Aegia, Lady of Kingdom, who causes the sun to rise and the Moon to shine, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived among these woods, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
-    "startIntroPart2": "Oh, Frey, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Kingdom back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
+    "startIntroPart1": "We greet thee, oh great Frey, Overlord of Iceland, who causes the sun to rise and the Moon to shine, and who blesses their fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived among these woods, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
+    "startIntroPart2": "Oh, Frey, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Iceland back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
 
     "declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
     "attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
@@ -21,7 +21,7 @@
     "neutralYes": ["I can't refuse.","I gladly accept."],
     "hateHello": "Don't waste my time!",
     "hateLetsHearIt": "What's your offer?",
-    "hateNo": ["Hungary will never accept that!","No way!"],
+    "hateNo": ["Iceland will never accept that!","No way!"],
     "hateYes": ["I must accept.","I never reject a good offer."],
 
     "afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
