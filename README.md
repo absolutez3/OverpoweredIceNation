@@ -1,3 +1,3 @@
-# uncivCheatNationChilly v1.01c
+# uncivCheatNationChilly v1.02c
 ; Cheat Civilization mod for Unciv (Kingdom)
-v1.01c 2024-07-28
+v1.02c 2024-07-28
