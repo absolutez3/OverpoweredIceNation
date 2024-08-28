@@ -1,8 +1,8 @@
 [
 	{
-		"name": "High Granary",
+		"name": "Elite Granary",
     "replaces": "Granary",
-    "uniqueTo": "Kingdom",
+    "uniqueTo": "Iceland",
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -18,9 +18,9 @@
 		"requiredTech": "Pottery"
 	},
 		{
-		"name": "High Gardens",
+		"name": "Zen Gardens",
 		"replaces": "Water Mill",
-		"uniqueTo": "Kingdom",
+		"uniqueTo": "Iceland",
 		"food": 2,
 		"production": 1,
 		"uniques": [
@@ -34,9 +34,9 @@
 		"requiredTech": "The Wheel"
 	},
   {
-    "name": "Winery",
+    "name": "Trade Hub",
     "replaces": "Market",
-    "uniqueTo": "Kingdom",
+    "uniqueTo": "Iceland",
     "gold": 2,
     "culture": 2,
     "specialistSlots": {"Merchant": 1},
@@ -50,9 +50,9 @@
 		],
   },
   {
-    "name": "High Lighthouse",
+    "name": "Laser Lighthouse",
     "replaces": "Lighthouse",
-    "uniqueTo": "Kingdom",
+    "uniqueTo": "Iceland",
     "production": 2,
     "cost": 75,
 		"hurryCostModifier": 25,
@@ -66,9 +66,9 @@
 		"requiredTech": "Optics"
   },
 	{
-		"name": "High Workshop",
+		"name": "Engineer Lab",
 		"replaces": "Workshop",
-		"uniqueTo": "Kingdom",
+		"uniqueTo": "Iceland",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
@@ -81,9 +81,9 @@
 		"requiredTech": "Metal Casting"
 	},
 		{
-		"name": "High Observatory",
+		"name": "Space Observatory",
 		"replaces": "Observatory",
-		"uniqueTo": "Kingdom",
+		"uniqueTo": "Iceland",
 		"maintenance": 0,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 50},
