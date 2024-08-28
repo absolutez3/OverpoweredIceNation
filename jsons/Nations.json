@@ -42,7 +42,6 @@
       "[+1] Sight <for [{Scout}] units>",
       "[-25]% maintenance costs <for [Land] units>",
       "[+25]% XP gained from combat <for [Military] units>",
-      "[+1 Production] from every [Strategic resource]",
       "[+1 Culture] from every [Luxury resource]",
       "[+100]% Yield from every [Great Improvement]",
       "[+1 Culture, +1 Production] per [3] population [in all cities]"
@@ -51,7 +50,8 @@
       "[+100]% Yield from every [Natural Wonder]",
       "May choose [2] additional belief(s) of any type when [founding] a religion",
       "Starts with [Archery]",
-      "[+1 Gold, +2 Food, +1 Production] from [Tundra] tiles [in all cities]"
+      "[+1 Gold, +2 Food, +1 Production] from [Tundra] tiles [in all cities]",
+      "[+1 Gold, +2 Food, +1 Production] from [Snow] tiles [in all cities]"
     ],
     "cities": ["Reykjavik","Hafnarfjörður","Akureyri","Seyðisfjörður","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
       "Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
