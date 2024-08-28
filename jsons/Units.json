@@ -3,12 +3,12 @@
     "name": "Pathfinder", //modded
     "unitType": "Scout",
     "replaces": "Scout",
-    "uniqueTo": "Kingdom",
+    "uniqueTo": "Iceland",
     "movement": 3,
     "strength": 8,
     "upgradesTo": "Composite Bowman",
     "cost": 15,
-    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study"],
+    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I"],
     "attackSound": "nonmetalhit"
   }
 ]
