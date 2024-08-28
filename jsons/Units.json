@@ -1,6 +1,6 @@
 [
   {
-    "name": "Pathfinder", //modded
+    "name": "Icewalker", //modded
     "unitType": "Scout",
     "replaces": "Scout",
     "uniqueTo": "Iceland",
