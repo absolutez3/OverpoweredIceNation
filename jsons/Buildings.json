@@ -92,18 +92,15 @@
 	},
 	
 	{
-		"name": "Ice Wall",
-		"replaces": "Walls",
-		"uniqueTo": "Iceland",
-		"cost": 75,
-		"maintenance": 0,
-		"production": 1,
-		"specialistSlots": {"Engineer": 1},
+		"name": "Ice Walls",
+		"cityStrength": 9,
+		"cityHealth": 80,
 		"hurryCostModifier": 25,
-		"uniques": [
-			"[+9 City strength] [in this city]",
-			"[+80 City health] [in this city]"
-		],
-		"requiredTech": "Metal Casting"
-	},
+		"requiredTech": "Masonry",
+		"uniqueTo": "Iceland",
+		"replaces": "Walls",
+		"culture": 1,
+		"production": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	}
 ]
