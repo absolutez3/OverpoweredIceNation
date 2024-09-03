@@ -90,4 +90,20 @@
 		"requiredBuilding": "Library",
 		"requiredTech": "Astronomy"
 	},
+	
+	{
+		"name": "Ice Wall,
+		"replaces": "Walls",
+		"uniqueTo": "Iceland",
+		"cost": 75,
+		"maintenance": 0,
+		"production": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+9 City strength] [in this city]",
+			"[+80 City health] [in this city]"
+		],
+		"requiredTech": "Metal Casting"
+	},
 ]
