@@ -8,7 +8,7 @@
     "strength": 8,
     "upgradesTo": "Composite Bowman",
     "cost": 15,
-    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic I"],
+    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic"],
     "attackSound": "nonmetalhit"
   }
 ]
