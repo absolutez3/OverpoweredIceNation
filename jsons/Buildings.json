@@ -92,7 +92,7 @@
 	},
 	
 	{
-		"name": "Ice Wall,
+		"name": "Ice Wall",
 		"replaces": "Walls",
 		"uniqueTo": "Iceland",
 		"cost": 75,
