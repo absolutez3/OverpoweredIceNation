@@ -37,7 +37,7 @@
 		"name": "AutoWorker",
 		"unitType": "Civilian",
 		"movement": 3,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+100]% construction time for [All Road] improvements"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[-300]% construction time for [All] improvements"],
 		"cost": 40
 	}
 	
