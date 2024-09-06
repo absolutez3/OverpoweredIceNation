@@ -26,7 +26,7 @@
 	{
 		"name": "AutoSettler",
 		"unitType": "Civilian",
-		"uniqueTo": "Iceland"
+		"uniqueTo": "Iceland",
 		"movement": 3,
 		"cost": 75,
 		"uniques": ["Founds a new city <by consuming this unit>",
@@ -37,6 +37,7 @@
 		"name": "AutoWorker",
 		"unitType": "Civilian",
 		"movement": 3,
+		"uniqueTo": "Iceland",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[-300]% construction time for [All] improvements"],
 		"cost": 40
 	},
