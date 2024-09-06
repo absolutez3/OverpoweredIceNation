@@ -102,5 +102,16 @@
 		"culture": 1,
 		"production": 1,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Ice Portal",
+		"maintenance": 0,
+		"uniqueTo": "Iceland",
+		"culture": 1,
+		"production": 2,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"gold": 2,
+		"requiredTech": "Trapping",
+		"uniques": ["Provides [2] [Iron]","Provides [2] [Horses]","Destroyed when the city is captured"]
 	}
 ]
