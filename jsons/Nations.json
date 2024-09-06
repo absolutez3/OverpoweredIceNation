@@ -27,8 +27,8 @@
     "afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
     "tradeRequest": "I've got an offer. Are you interested?",
 
-    "outerColor": [119, 119, 255],
-    "innerColor": [234, 105, 49],
+    "outerColor": [136, 136, 255],
+    "innerColor": [0, 0, 0],
 
     "uniqueName": "The Ruler",
     "uniqueText": "Many uniques. Many...",
