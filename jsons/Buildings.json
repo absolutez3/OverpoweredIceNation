@@ -4,12 +4,13 @@
     "replaces": "Granary",
     "uniqueTo": "Iceland",
 		"food": 2,
-		"maintenance": 1,
+		"maintenance": 0,
 		"hurryCostModifier": 25,
+		"percentStatBonus": {"food": 13},
 		"uniques": [
 			"[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"
+			"[+1 Food] from [Wheat] tiles [in this city]",
 			"[+1 Food] from [Cattle] tiles [in this city]",
 			"[+1 Food] from [Sheep] tiles [in this city]",
 			"[+1 Food] from [Fish] tiles [in this city]",
@@ -39,6 +40,7 @@
     "uniqueTo": "Iceland",
     "gold": 2,
     "culture": 2,
+    "greatPersonPoints": {"Great Merchant": 3}
     "specialistSlots": {"Merchant": 1},
     "hurryCostModifier": 25,
     "percentStatBonus": {"gold": 25},
