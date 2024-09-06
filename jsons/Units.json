@@ -17,7 +17,7 @@
 		"uniqueTo": "Iceland",
 		"replaces": "Warrior",
 		"movement": 4,
-		"strength": 10,
+		"strength": 9,
 		"cost": 40,
 		"promotions": ["Haka War Dance", "Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Medic", "Cover I", "Drill I", "March", "Shock I"]
 		"upgradesTo": "Swordsman",
