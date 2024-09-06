@@ -28,7 +28,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Iceland"
 		"movement": 3,
-		"cost": 106,
+		"cost": 83,
 		"uniques": ["Founds a new city <by consuming this unit>",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
