@@ -23,4 +23,15 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "AutoSettler",
+		"unitType": "Civilian",
+		"uniqueTo": "Iceland"
+		"movement": 3,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
 ]
