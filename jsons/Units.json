@@ -28,10 +28,17 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Iceland"
 		"movement": 3,
-		"cost": 83,
+		"cost": 75,
 		"uniques": ["Founds a new city <by consuming this unit>",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "AutoWorker",
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+100]% construction time for [All Road] improvements"],
+		"cost": 40
+	}
 	
 ]
