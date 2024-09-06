@@ -8,7 +8,7 @@
     "strength": 8,
     "upgradesTo": "Composite Bowman",
     "cost": 15,
-    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic"],
+    "promotions": ["Ignore terrain cost", "March", "Cover I", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic"],
     "attackSound": "nonmetalhit"
   },
   {
@@ -19,7 +19,7 @@
 		"movement": 4,
 		"strength": 10,
 		"cost": 40,
-		"promotions": ["Haka War Dance", "Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Medic I", "Cover I", "Drill I", "March", "Shock I"]
+		"promotions": ["Haka War Dance", "Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Medic", "Cover I", "Drill I", "March", "Shock I"]
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
