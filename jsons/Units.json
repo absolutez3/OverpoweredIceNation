@@ -4,11 +4,23 @@
     "unitType": "Scout",
     "replaces": "Scout",
     "uniqueTo": "Iceland",
-    "movement": 3,
+    "movement": 6,
     "strength": 8,
     "upgradesTo": "Composite Bowman",
     "cost": 15,
     "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic"],
     "attackSound": "nonmetalhit"
-  }
+  },
+  {
+		"name": "Ice Sentinel",
+		"unitType": "Sword",
+		"uniqueTo": "Iceland",
+		"replaces": "Warrior",
+		"movement": 4,
+		"strength": 10,
+		"cost": 40,
+		"promotions": ["Haka War Dance", "Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Medic I", "Cover I", "Drill I", "March", "Shock I"]
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
 ]
