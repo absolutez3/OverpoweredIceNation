@@ -39,6 +39,19 @@
 		"movement": 3,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[-300]% construction time for [All] improvements"],
 		"cost": 40
-	}
+	},
+	{
+		"name": "MindBender",
+		"unitType": "Civilian",
+		"uniqueTo": "Iceland",
+		"replaces": "Missionary",
+		"uniques": [
+            "Can Spread Religion <for [4] movement> <[4] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [25] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[+1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+		"movement": 5,
+		"religiousStrength": 1400
+	},
 	
 ]
