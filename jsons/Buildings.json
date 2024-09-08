@@ -129,6 +129,7 @@
 		"happiness": 1,
 		"uniqueTo": "Iceland",
 		"science": 2,
+		"replaces": "Library"
 		"uniques": ["[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	}
