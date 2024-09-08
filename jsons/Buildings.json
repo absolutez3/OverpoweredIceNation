@@ -102,6 +102,9 @@
 		"uniqueTo": "Iceland",
 		"replaces": "Walls",
 		"culture": 1,
+		"greatPersonPoints": { "Great Engineer": 1},
+		"science": 2,
+		"happiness": 1,
 		"production": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -113,9 +116,21 @@
 		"production": 2,
 		"greatPersonPoints": {"Great Scientist": 2, "Great Engineer": 2},
 		"gold": 2,
+		"happiness": 2,
 		"food": 2,
 		"faith": 2,
 		"requiredTech": "Trapping",
 		"uniques": ["Provides [2] [Iron]","Provides [2] [Horses]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Mind Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"happiness": 1,
+		"uniqueTo": "Iceland",
+		"science": 2,
+		"uniques": ["[+2 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	}
+	
 ]
