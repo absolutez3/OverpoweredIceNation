@@ -136,13 +136,13 @@
 	{
 	
 		"name": "Military Housing",
-		"replaces": "Barracks"",
+		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"culture": 1,
 		"uniqueTo": "Iceland"
 		"uniques": ["New [Military] units start with [60] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
-	},
+	}
 	
 ]
