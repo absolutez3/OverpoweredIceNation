@@ -66,7 +66,6 @@
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
 		"upgradesTo": "Galleass",
-		"obsoleteTech": "Astronomy",
 		"attackSound": "arrow"
 		"promotions": ["Bombardment I", "Targeting I", "Logistics", "Mobility"]
 	}
