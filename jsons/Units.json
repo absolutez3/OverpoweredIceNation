@@ -53,6 +53,22 @@
 			"[+1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
 		"movement": 5,
 		"religiousStrength": 1400
+	},
+	{
+		"name": "SeaSerpent",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Iceland",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 56,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "arrow"
+		"promotions": ["Bombardment I", "Targeting I", "Logistics", "Mobility"]
 	}
 	
 ]
