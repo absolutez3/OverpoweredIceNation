@@ -68,6 +68,22 @@
 		"upgradesTo": "Galleass",
 		"attackSound": "arrow"
 		"promotions": ["Bombardment I", "Targeting I", "Logistics", "Mobility"]
+	},
+	{
+		"name": "Ice Turtle Launcher",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Iceland",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw",
+		"promotions": [ "Volley", "Indirect Fire", "March", "Cover I", "Cover II"]
 	}
-	
 ]
