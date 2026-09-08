@@ -1,6 +1,6 @@
 [
   {
-    "name": "Icewalker", //modded
+    "name": "Icewalker",
     "unitType": "Scout",
     "replaces": "Scout",
     "uniqueTo": "Iceland",
@@ -8,82 +8,129 @@
     "strength": 8,
     "upgradesTo": "Composite Bowman",
     "cost": 15,
-    "promotions": ["Ignore terrain cost", "March", "Cover I", "Rejuvenation", "Quick Study", "Survivalism I", "Scouting I", "Medic"],
+    "promotions": [
+      "Ignore terrain cost",
+      "March",
+      "Cover I",
+      "Rejuvenation",
+      "Quick Study",
+      "Survivalism I",
+      "Scouting I",
+      "Medic"
+    ],
     "attackSound": "nonmetalhit"
   },
   {
-		"name": "Ice Sentinel",
-		"unitType": "Sword",
-		"uniqueTo": "Iceland",
-		"replaces": "Warrior",
-		"movement": 4,
-		"strength": 9,
-		"cost": 40,
-		"promotions": ["Haka War Dance", "Ignore terrain cost", "Rejuvenation", "Quick Study", "Survivalism I", "Medic", "Cover I", "Drill I", "March", "Shock I"]
-		"upgradesTo": "Swordsman",
-		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "AutoSettler",
-		"unitType": "Civilian",
-		"uniqueTo": "Iceland",
-		"movement": 3,
-		"cost": 75,
-		"uniques": ["Founds a new city <by consuming this unit>",
-			"Requires at least [2] population"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "AutoWorker",
-		"unitType": "Civilian",
-		"movement": 3,
-		"uniqueTo": "Iceland",
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[-300]% construction time for [All] improvements"],
-		"cost": 40
-	},
-	{
-		"name": "MindBender",
-		"unitType": "Civilian",
-		"uniqueTo": "Iceland",
-		"replaces": "Missionary",
-		"uniques": [
-            "Can Spread Religion <for [4] movement> <[4] times> <after which this unit is consumed>",
-            "May enter foreign tiles without open borders, but loses [25] religious strength each turn it ends there",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[+1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 5,
-		"religiousStrength": 1400
-	},
-	{
-		"name": "SeaSerpent",
-		"unitType": "Ranged Water",
-		"uniqueTo": "Iceland",
-		"replaces": "Trireme",
-		"movement": 5,
-		"strength": 10,
-		"rangedStrength": 12,
-		"cost": 56,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
-		"upgradesTo": "Galleass",
-		"attackSound": "arrow"
-		"promotions": ["Bombardment I", "Targeting I", "Logistics", "Mobility"]
-	},
-	{
-		"name": "Ice Turtle Launcher",
-		"unitType": "Siege",
-		"replaces": "Catapult",
-		"uniqueTo": "Iceland",
-		"movement": 3,
-		"strength": 10,
-		"rangedStrength": 12,
-		"cost": 75,
-		"requiredTech": "Mathematics",
-		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack"],
-		"hurryCostModifier": 20,
-		"attackSound": "throw",
-		"promotions": [ "Volley", "Indirect Fire", "March", "Cover I", "Cover II"]
-	}
+    "name": "Ice Sentinel",
+    "unitType": "Sword",
+    "uniqueTo": "Iceland",
+    "replaces": "Warrior",
+    "movement": 4,
+    "strength": 9,
+    "cost": 40,
+    "promotions": [
+      "Haka War Dance",
+      "Ignore terrain cost",
+      "Rejuvenation",
+      "Quick Study",
+      "Survivalism I",
+      "Medic",
+      "Cover I",
+      "Drill I",
+      "March",
+      "Shock I"
+    ],
+    "upgradesTo": "Swordsman",
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "AutoSettler",
+    "unitType": "Civilian",
+    "uniqueTo": "Iceland",
+    "movement": 3,
+    "cost": 75,
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Requires at least [2] population"
+    ],
+    "hurryCostModifier": 20
+  },
+  {
+    "name": "AutoWorker",
+    "unitType": "Civilian",
+    "movement": 3,
+    "uniqueTo": "Iceland",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action",
+      "[-300]% construction time for [All] improvements"
+    ],
+    "cost": 40
+  },
+  {
+    "name": "MindBender",
+    "unitType": "Civilian",
+    "uniqueTo": "Iceland",
+    "replaces": "Missionary",
+    "uniques": [
+      "Can Spread Religion <for [4] movement> <[4] times> <after which this unit is consumed>",
+      "May enter foreign tiles without open borders, but loses [25] religious strength each turn it ends there",
+      "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+      "[+1] Sight",
+      "Unbuildable",
+      "Religious Unit",
+      "Hidden when religion is disabled"
+    ],
+    "movement": 5,
+    "religiousStrength": 1400
+  },
+  {
+    "name": "SeaSerpent",
+    "unitType": "Ranged Water",
+    "uniqueTo": "Iceland",
+    "replaces": "Trireme",
+    "movement": 5,
+    "strength": 10,
+    "rangedStrength": 12,
+    "cost": 56,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Cannot enter ocean tiles",
+      "[+50]% Strength <vs [Water] units>"
+    ],
+    "upgradesTo": "Galleass",
+    "attackSound": "arrow",
+    "promotions": [
+      "Bombardment I",
+      "Targeting I",
+      "Logistics",
+      "Mobility"
+    ]
+  },
+  {
+    "name": "Ice Turtle Launcher",
+    "unitType": "Siege",
+    "replaces": "Catapult",
+    "uniqueTo": "Iceland",
+    "movement": 3,
+    "strength": 10,
+    "rangedStrength": 12,
+    "cost": 75,
+    "requiredTech": "Mathematics",
+    "upgradesTo": "Trebuchet",
+    "uniques": [
+      "[+200]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack"
+    ],
+    "hurryCostModifier": 20,
+    "attackSound": "throw",
+    "promotions": [
+      "Volley",
+      "Indirect Fire",
+      "March",
+      "Cover I",
+      "Cover II"
+    ]
+  }
 ]
