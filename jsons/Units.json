@@ -79,7 +79,7 @@
       "[+1] Sight",
       "Unbuildable",
       "Religious Unit",
-      "Hidden when religion is disabled"
+      "Only available (when religion is enabled)"
     ],
     "movement": 5,
     "religiousStrength": 1400

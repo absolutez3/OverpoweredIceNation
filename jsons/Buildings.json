@@ -88,10 +88,12 @@
       "Engineer": 1
     },
     "hurryCostModifier": 25,
+    "percentStatBonus": {
+      "production": 10
+    },
     "uniques": [
       "[+1 Production] from [Forest] tiles [in this city]",
-      "[+1 Production] from [Hill] tiles [in this city]",
-      "[+10]% Production [in this city]"
+      "[+1 Production] from [Hill] tiles [in this city]"
     ],
     "requiredTech": "Metal Casting"
   },
